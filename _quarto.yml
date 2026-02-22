@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  navbar:
+    background: dark
+    search: true
+    left:
+      - text: "Cyrus Gazdar"
+        file: index.qmd
+      - text: Works
+        file: Projects.qmd
+      - text: CV
+        file: Academic_CV.pdf
+    right:
+      - icon: substack
+        file: https://substack.com/@cyrusgazdar
+      - icon: envelope
+        file: cyrusgazdar@outlook.com
+      - icon: linkedin
+        file: http://www.linkedin.com/in/cyrusgazdar
+      - icon: github
+        file: https://github.com/CGazdar
+      - icon: twitter
+        file: https://x.com/gazdar_cyrus
+
+
+format:
+  html:
+    theme:
+      - Lux
+    css: styles.css
+    toc: true
