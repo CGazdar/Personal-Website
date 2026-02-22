@@ -1,0 +1,29 @@
+---
+Title: "Projects"
+---
+
+Attached below are a few of my select works. Feel free to give any of them a read and reach out if you have any questions.
+
+#### *United We Stand, Divided we Drive: How Highways served as Racial Mechanisms in American Society*
+
+While the end of the American Civil War abolished legal chattel slavery, it only opened the ability for structural racism to take root in new forms. The most commonly cited case of this occuring was manifested in widespread *'Jim Crow Laws'*, which mandated legal segregation in all the former Confederate States and a handful of other throughout the Continenal United States. The racial mobility which followed, however, led to defacto segregation in the North states by viture of suburban culture layered onto discriminatory federal policies. Highways served as an essential force to uphold suburban culture, which, when paired with the method of their construction, had immediate and long-term effects on African American Communities.
+
+[PDF](United We Stand, Divided we Drive.pdf){.btn .btn-primary role="button"}
+
+#### *Satyagraha: A Southern Strategy?*
+
+Mohandas Gandhi and Dr Martin Luther King Jr. are generally seen as two of the greatest examples of non-violent resistence in modern history. Since general perceptions about non-violence group the practice in a homogenous manner, subconsious thinking may lead us to believe their methodologies would be at the very least very similar. With that being said, different contexts and personal philosophies mean that differing approaches are guarenteed. This paper looks at points where the two figures diverge and converge in their approaches to non-violence.
+
+[PDF](Satyagraha A Southern Strategy.pdf){.btn .btn-primary role="button"}
+
+#### *I'm Broke and my Government ain't Working! Finding the Interaction Between Civil War Variables*
+
+As civil wars and intrastate conflicts have become more common over the past half century, important empirical discussions need to be had about the conditions which lead to its onset. Current literature consistently yields GDP per Capita and Political Instability as stedfast variables. This paper replicates Nicholas Sambanis' landmark 2004 model and data set looking for an interactive effect between these two variables. After receiving our findings, the paper also disucsses potential explanations for them, while including important recommendations for future testing and new methods of operationalizing variables which can be used in future tests.
+
+[PDF](GDPINSTA.pdf){.btn .btn-primary role="button"}
+
+#### *Freed Bondage: How American Liberalism and Slavery Collided in Early American Politics*
+
+While the American state philosophy of *life, liberty, and the pursuit of happiness* have remained largely the same since Jefferson's 1776 Declaration of Independence, the material reality for millions of African Americans did not reflect this due to their status as an enslaved people with no human rights. Fredrick Douglass, a former slave, gave a speech on the Fourth of July of 1852 which called out this irreconcilable difference. The manner in which he did, however, not only called out the hypocracy of American politics and Christianity, but also framed himself and slaves as true patriots of the ideas of 1776.
+
+[PDF](Freed Bondage.pdf){.btn .btn-primary role="button"}
